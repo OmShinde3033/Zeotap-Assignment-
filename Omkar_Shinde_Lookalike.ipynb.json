@@ -1,0 +1,22 @@
+{
+  "000003-2": {
+    "name": "SignupDate.day-of-month",
+    "importance": 0.35896
+  },
+  "000003-3": {
+    "name": "SignupDate.day-of-week",
+    "importance": 0.22143
+  },
+  "000001": {
+    "name": "CustomerName",
+    "importance": 0.15397
+  },
+  "000003-0": {
+    "name": "SignupDate.year",
+    "importance": 0.15253
+  },
+  "000003-1": {
+    "name": "SignupDate.month",
+    "importance": 0.11311
+  }
+}
